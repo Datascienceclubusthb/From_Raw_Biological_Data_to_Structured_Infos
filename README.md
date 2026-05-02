@@ -14,8 +14,8 @@
 
 | File | Description |
 |------|-------------|
-| `bioinformatics_workshop.pptx`[bioinformatics_workshop.pptx] | Full 20-slide presentation deck |
-| `bioinformatics_workshop_demo.ipynb`[bioinformatics_workshop_demo.ipynb] | Live Python demo notebook |
+| [bioinformatics_workshop.pptx](bioinformatics_workshop.pptx) | Full 20-slide presentation deck |
+| [bioinformatics_workshop_demo.ipynb](bioinformatics_workshop_demo.ipynb) | Live Python demo notebook |
 
 ---
 
